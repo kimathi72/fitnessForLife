@@ -1,0 +1,63 @@
+section{
+    padding-top: 0.1rem;
+    margin-bottom: 0.5rem;
+
+}
+h3{
+    padding-bottom: 0.2rem;
+}
+.row{
+    padding-bottom: 0.5rem;
+    margin: 0.1rem;
+
+
+}
+#logo {
+    height:20%;
+    width: 20%;
+
+}
+#slider{
+    background-image: url("./img/slider/2.jpg");
+    background-size:auto;
+    border: 1px solid black;
+    border-radius:25px;
+    display: flex;
+    justify-content: right; 
+    height: 40rem;
+    width: 80rem;
+}
+#caption{
+    margin-top: 10%;
+    margin-right: 5%;
+    padding-top:1.5rem; 
+    background: rgba(202, 202, 197, 0.9);
+    border: 1px solid black;
+    border-radius:25px;
+    height: 25rem; 
+    width: 25rem; 
+    text-align: center;
+    color: #492e2e;
+}
+#services {
+    padding: 1rem;
+    background: rgba(202, 202, 197, 0.5);
+    border: 1px solid black;
+    border-radius:25px;
+    height: 25rem; 
+     
+    text-align: center;
+    color: #492e2e;
+
+}
+#contactForm{
+    padding: 1rem;
+    background: rgba(202, 202, 197, 0.5);
+    border: 1px solid black;
+    border-radius:25px;
+    height: 25rem; 
+     
+    text-align: center;
+    color: #492e2e;
+
+}
